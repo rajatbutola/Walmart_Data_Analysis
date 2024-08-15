@@ -35,6 +35,7 @@ The project resulted in more informed decision-making and strategic planning for
 ### Tools and Technologies:
 
 SQL: For data extraction, transformation, and integration.
+
 Power BI: For creating interactive dashboards and visualizations.
 This project demonstrated my ability to manage large datasets, create insightful reports, and drive business decisions through data-driven analysis.
 
