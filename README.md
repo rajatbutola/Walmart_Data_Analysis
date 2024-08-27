@@ -11,8 +11,8 @@ Utilizing SQL, I extracted and transformed large datasets from Walmart's sales a
 Data Aggregation: Compiled sales data across various dimensions such as time periods, store locations, and product categories.
 Data Cleaning: Identified and rectified inconsistencies and missing values to ensure data integrity.
 Data Integration: Combined data from multiple sources, including transactional and inventory databases, to provide a comprehensive view of Walmart’s operations.
-Data Visualization and Reporting:
 
+Data Visualization and Reporting:
 Using Power BI, I created interactive and visually compelling dashboards that allowed stakeholders to explore and interpret the data effectively. This involved:
 
 ### Dashboard Development: 
